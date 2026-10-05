@@ -1,0 +1,13 @@
+C:\Users\brudo\Desktop\PROGRAMMI C#\AnimaliStrani\AnimaliStrani\bin\Debug\netcoreapp3.1\AnimaliStrani.exe
+C:\Users\brudo\Desktop\PROGRAMMI C#\AnimaliStrani\AnimaliStrani\bin\Debug\netcoreapp3.1\AnimaliStrani.deps.json
+C:\Users\brudo\Desktop\PROGRAMMI C#\AnimaliStrani\AnimaliStrani\bin\Debug\netcoreapp3.1\AnimaliStrani.runtimeconfig.json
+C:\Users\brudo\Desktop\PROGRAMMI C#\AnimaliStrani\AnimaliStrani\bin\Debug\netcoreapp3.1\AnimaliStrani.runtimeconfig.dev.json
+C:\Users\brudo\Desktop\PROGRAMMI C#\AnimaliStrani\AnimaliStrani\bin\Debug\netcoreapp3.1\AnimaliStrani.dll
+C:\Users\brudo\Desktop\PROGRAMMI C#\AnimaliStrani\AnimaliStrani\bin\Debug\netcoreapp3.1\AnimaliStrani.pdb
+C:\Users\brudo\Desktop\PROGRAMMI C#\AnimaliStrani\AnimaliStrani\obj\Debug\netcoreapp3.1\AnimaliStrani.csprojAssemblyReference.cache
+C:\Users\brudo\Desktop\PROGRAMMI C#\AnimaliStrani\AnimaliStrani\obj\Debug\netcoreapp3.1\AnimaliStrani.AssemblyInfoInputs.cache
+C:\Users\brudo\Desktop\PROGRAMMI C#\AnimaliStrani\AnimaliStrani\obj\Debug\netcoreapp3.1\AnimaliStrani.AssemblyInfo.cs
+C:\Users\brudo\Desktop\PROGRAMMI C#\AnimaliStrani\AnimaliStrani\obj\Debug\netcoreapp3.1\AnimaliStrani.csproj.CoreCompileInputs.cache
+C:\Users\brudo\Desktop\PROGRAMMI C#\AnimaliStrani\AnimaliStrani\obj\Debug\netcoreapp3.1\AnimaliStrani.dll
+C:\Users\brudo\Desktop\PROGRAMMI C#\AnimaliStrani\AnimaliStrani\obj\Debug\netcoreapp3.1\AnimaliStrani.pdb
+C:\Users\brudo\Desktop\PROGRAMMI C#\AnimaliStrani\AnimaliStrani\obj\Debug\netcoreapp3.1\AnimaliStrani.genruntimeconfig.cache
